@@ -1,1 +1,2 @@
 # Lista zakupów
+Nowa linia
